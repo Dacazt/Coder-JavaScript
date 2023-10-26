@@ -1,0 +1,110 @@
+/* let contrasena = prompt(`Ingrese su contraseña`);
+let verificarContrasena = prompt(`Repita su contraseña`)
+if(contrasena === verificarContrasena){
+    alert(`Contraseña generada correctamente`)
+}else{
+    alert(`Las contraseñas no coinciden`)
+} */
+
+/* let respuesta = prompt(`Terminaste la tarea?`).toLocaleLowerCase()
+if(respuesta == `si`){
+    alert(`Usted puede salir a jugar`)
+}else{
+    alert(`Usted no puede salir a jugar`)
+} */
+/* for(let i = 0; i <= 100; i++){
+    console.log(i);
+} */
+/* 
+let number = prompt(`ingrese el numero`)
+for(let i = 1; i <= 10; i++) {
+    let resultado = number * i;
+    alert(`${number} * ${i} = ${resultado}`)
+} */
+
+/* for(let turno = 1; turno <= 5; turno++){
+    let nombre = prompt(`Ingrese el nombre`);
+
+    alert(`Turno #${turno} Nombre: ${nombre}`)
+}
+alert(`turnos agotados, vuelva mañana`) */
+
+/* for(let i = 0; i <= 10; i++){
+    if (i === 5) {
+        break;
+    }
+    console.log(i);
+} */
+
+/* for(let i = 0; i <= 5; i++){
+    if (i === 6) {
+        continue;
+    }
+} */
+
+//ACTIVIDAD 1 -----------
+/* let nombre = `Homero`
+let apellido = `Apellido`
+let edad = 45
+
+console.log(nombre);
+console.log(apellido);
+console.log(edad); */
+
+//ACTIVIDAD 2 -----------
+/* const city1 = `Lanus`
+const city2 = `Banfield`
+const city3 = `Lomas`
+const city4 = `Temperley`
+const city5 = `Adrogue` */
+
+/* console.log(city1);
+console.log(city2);
+console.log(city3);
+console.log(city4);
+console.log(city5); */
+
+//ACTIVIDAD 3 -----------
+/* let persona = `NED FLANDERS`
+let domicilio = `AV. SIEMPRE VIVA 123`
+let pais = `ARGENTINA`
+let nacimiento = `29/04/1997`
+const codigo = `B47U83AE5Z`
+let carnet = `Codigo: ${codigo} Nombre: ${persona} Pais: ${pais} Nacimiento: ${nacimiento} Domicilio: ${domicilio}`
+console.log(carnet); */
+
+//ACTIVIDAD 4 -----------
+/* let fliar1 = prompt("Ingrese el nombre de su Padre")
+let fliar2 = prompt("Ingrese el nombre de su Madre")
+let fliar3 = prompt("Ingrese el nombre de su Hermano")
+let fliar4 = prompt("Ingrese el nombre de su Hermana")
+let fliar5 = prompt("Ingrese el nombre de su Mascota")
+alert(`Los nombres ingresados son: ${fliar1} ${fliar2} ${fliar3} ${fliar4} ${fliar5}`) */
+
+//ACTIVIDAD 5 -----------
+/* let precio = Number(prompt("Ingrese el monto a pagar"))
+let descuento30 = precio * 0.30
+let totalAPagar = precio - descuento30
+alert(`El monto a pagar seleccionado es de: ${precio}`)
+alert(`usted tiene un descuento del 30%, su total a pagar es de ${totalAPagar}`) */
+
+//ACTIVIDAD 1
+/* let nombre = `Damian`
+let usuario = prompt(`Ingrese su nombre`).toLocaleLowerCase();
+if(nombre == usuario){
+    alert(`Fui yo`)
+}else{
+    alert(`No fui yo`)
+}; */
+
+//ACTIVIDAD 2
+/* let tecla = prompt(`Ingrese la tecla "y"`)
+if(tecla == "y"){
+    alert(`La tecla ingresada es correcta`)
+}else{
+    alert(`La tecla ingresada es incorrecta`)
+} */
+
+//ACTIVIDAD 3
+
+// Definimos una lista de productos como objetos con precios establecidos
